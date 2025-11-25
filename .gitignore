@@ -1,0 +1,25 @@
+
+# Node
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# Playwright
+playwright-report/
+test-results/
+blob-report/
+test-results/
+trace.zip
+
+# Environment variables
+.env
+*.env
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
